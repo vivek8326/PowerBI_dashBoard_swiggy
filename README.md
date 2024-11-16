@@ -1,5 +1,4 @@
 # PowerBI_dashBoard_swiggy
-# Zomato Sales Analysis Dashboard
 
 This repository features a Power BI dashboard built for analyzing Zomato's sales data. The dashboard is designed to provide a comprehensive overview of key performance indicators, including total sales, product category performance, and top-performing cities. It presents insights in a visually appealing and interactive manner, making it easy to explore data trends and draw actionable conclusions.
 
